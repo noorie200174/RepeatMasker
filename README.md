@@ -16,6 +16,7 @@ http://www.repeatmasker.org/RepeatMasker/
 RepeatMasker
 ------------
 
+
 RepeatMasker is a program that screens DNA sequences for interspersed
 repeats and low complexity DNA sequences. The output of the program is
 a detailed annotation of the repeats that are present in the query
@@ -52,3 +53,4 @@ RepeatMasker's "-lib" option.
 RepeatMasker "open-4.0" and later versions are distributed under the
 Open Source License.  Please read LICENSE file for more information.
 
+Author: Noor Ain Ahmed (practice)
